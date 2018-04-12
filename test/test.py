@@ -15,6 +15,8 @@ print(result1)
 print(result2)
 print(next_five_results)
 print(all_results[0:5])
+connexion.close()
+
 
 
 
